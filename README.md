@@ -62,7 +62,6 @@ src/
 
 ## 📸 لقطات الشاشة (Screenshots)
 
-*(Add your screenshots here! Take screenshots of the Homepage, Search Dropdown, and the Booking Modal before publishing to GitHub)*
 
 ## 🤝 المساهمة (Contributing)
 
