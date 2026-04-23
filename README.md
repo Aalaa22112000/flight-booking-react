@@ -62,10 +62,9 @@ src/
 
 ## 📸 لقطات الشاشة (Screenshots)
 
+<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/e33e552e-a200-4759-abc9-3985dd47c4d0" />
 
-## 🤝 المساهمة (Contributing)
-
-We believe in teamwork! Feel free to fork the repository, make your changes, and submit a pull request. Clean code practices are highly encouraged.
+<img width="1324" height="768" alt="image" src="https://github.com/user-attachments/assets/b7eabe83-3484-41e3-8433-f5e4037117d2" />
 
 ## 📜 الترخيص (License)
 
